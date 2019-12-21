@@ -1,0 +1,28 @@
+.Intro {
+    background-image: url('../images/home-bg.jpg');
+    position: absolute;
+    height: 823px;
+    width: 1600px;
+    opacity: 1.5;
+  }
+  
+  #intro-text{
+    font-family: 'Righteous';
+    font-size: 90px;
+    width: 400px;
+    margin-left: 10%;
+    margin-top: 1%;
+    color: rgb(130, 0, 0);
+    -webkit-text-stroke-width: 2px;
+    -webkit-text-stroke-color: #fff;
+  }
+  
+  #help-button{
+    background-image: url('../images/help-button.png');
+    height: 100px;
+    width: 100px;
+    position: absolute;
+    margin-top: -80px;
+    margin-left: 15%;
+    border-radius: 50%;
+  }
